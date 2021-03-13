@@ -1,0 +1,12 @@
+C:\Users\Aidan\Desktop\Homework\.Net\L3\TestAssignment1\TestAssignment1\TestAssignment1\bin\Debug\TestAssignment1.exe.config
+C:\Users\Aidan\Desktop\Homework\.Net\L3\TestAssignment1\TestAssignment1\TestAssignment1\bin\Debug\TestAssignment1.exe
+C:\Users\Aidan\Desktop\Homework\.Net\L3\TestAssignment1\TestAssignment1\TestAssignment1\bin\Debug\TestAssignment1.pdb
+C:\Users\Aidan\Desktop\Homework\.Net\L3\TestAssignment1\TestAssignment1\TestAssignment1\bin\Debug\TestAssignment1.xml
+C:\Users\Aidan\Desktop\Homework\.Net\L3\TestAssignment1\TestAssignment1\TestAssignment1\obj\Debug\TestAssignment1.vbprojAssemblyReference.cache
+C:\Users\Aidan\Desktop\Homework\.Net\L3\TestAssignment1\TestAssignment1\TestAssignment1\obj\Debug\TestAssignment1.Resources.resources
+C:\Users\Aidan\Desktop\Homework\.Net\L3\TestAssignment1\TestAssignment1\TestAssignment1\obj\Debug\TestAssignment1.vbproj.GenerateResource.cache
+C:\Users\Aidan\Desktop\Homework\.Net\L3\TestAssignment1\TestAssignment1\TestAssignment1\obj\Debug\TestAssignment1.vbproj.CoreCompileInputs.cache
+C:\Users\Aidan\Desktop\Homework\.Net\L3\TestAssignment1\TestAssignment1\TestAssignment1\obj\Debug\TestAssignment1.exe
+C:\Users\Aidan\Desktop\Homework\.Net\L3\TestAssignment1\TestAssignment1\TestAssignment1\obj\Debug\TestAssignment1.xml
+C:\Users\Aidan\Desktop\Homework\.Net\L3\TestAssignment1\TestAssignment1\TestAssignment1\obj\Debug\TestAssignment1.pdb
+C:\Users\Aidan\Desktop\Homework\.Net\L3\TestAssignment1\TestAssignment1\TestAssignment1\obj\Debug\TestAssignment1.FitnessCalculator.resources
